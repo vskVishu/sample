@@ -1,12 +1,10 @@
 spring:
   application:
     name: SampleApplications
-  cloud:
-    config:
-      uri: http://localhost:8090/
   profiles:
-    active: test
+    active: prod
 server:
   port: 8080
+
 app:
-  switch: 'default-git-ON'
+  switch: default-git-ON
