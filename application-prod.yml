@@ -1,2 +1,2 @@
 app:
-  switch: 'prod-git-ON'
+  switch: test-git-ON
