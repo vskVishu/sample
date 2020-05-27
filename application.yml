@@ -1,6 +1,4 @@
 spring:
-  application:
-    name: SampleApplications
   profiles:
     active: prod
 server:
