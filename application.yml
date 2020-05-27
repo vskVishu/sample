@@ -1,1 +1,3 @@
 
+app:
+  switch: "git-ON"
