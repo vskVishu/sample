@@ -1,1 +1,2 @@
-
+app:
+  switch: 'prod-git-ON'
