@@ -1,5 +1,12 @@
-app:
-  switch: "git-ON"
 spring:
+  application:
+    name: SampleApplications
+  cloud:
+    config:
+      uri: http://localhost:8090/
   profiles:
     active:test
+server:
+  port: 8080
+app:
+  switch: "default-ON"
