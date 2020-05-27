@@ -3,4 +3,4 @@ spring:
     config:
       uri: http://localhost:8090
   profiles:
-    active: test
+    active: prod
