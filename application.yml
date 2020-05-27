@@ -5,7 +5,7 @@ spring:
     config:
       uri: http://localhost:8090/
   profiles:
-    active:test
+    active: test
 server:
   port: 8080
 app:
